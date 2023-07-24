@@ -1,6 +1,6 @@
 import time
 
-lst=["cutie I want to eat your nose zehiiii,kudasai"] 
+lst=["cutie I want to eat your nose zehiiii,くださいますですね"] 
 for word in lst:
     for letter in word[0:]:
         print(letter)
